@@ -1,0 +1,14 @@
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/doc
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/hdl
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/synth
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/sim
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.veo
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.vho
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.xml
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.dcp
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.v
+xcku-gty.srcs/sources_1/ip/gtwizard_ultrascale_0/*.vhdl
