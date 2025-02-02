@@ -41,7 +41,8 @@ function DoParameter($line)
 	$pval = explode(')', $pval)[0];
 
 	//For now, skip any parameter which ends in _TIE_EN or _VAL as this indicates a port tieoff
-	if(strpos($pname, '_TIE_EN') || strpos($pname, '_VAL') )
+	//or anything starting with AEN_
+	if(strpos($pname, '_TIE_EN') || strpos($pname, '_VAL') || strpos($pname, 'AEN_') )
 		return;
 
 	echo "$pname,$pval\n";
