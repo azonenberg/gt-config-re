@@ -1,7 +1,11 @@
 # Generated CSV configurations for various GTYE4_COMMON setups
 
+All configs generated with Vivado 2019.2 because of bugs preventing me from using the ultrascale+ transceivers wizard (this IP specifically) on newer Vivado versions.
+
 ## List of configs
 
 * 01_baseline: 10Gbase-R default wizard configuration, nothing changed. 10.3125 Gbps, 156.25 MHz refclk, QPLL0
 * 02_rx_qpll1: RX using same exact setup as above, but clocked by QPLL1
 * 03_20g625: doubled data rate to 20.625 Gbps
+* 04_20g: change data rate to 20.000 Gbps
+* 05_nocode: disabled 64/66b line coder (no changes to QPLL config)
