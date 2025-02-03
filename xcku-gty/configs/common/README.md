@@ -13,3 +13,4 @@ All configs generated with Vivado 2019.2 because of bugs preventing me from usin
 * 07_dual_fractionaln: enable QPLL1 at 25.78125 Gbps
 * 08_fractionaln_125m: same as 07 but change input clock to 125 MHz
 * 09_fractionaln_100m: same as 08 but change input clock to 100 MHz
+* 10_1g25: change data rate to 1.25 Gbps with 156.25 MHz refclk
