@@ -16,3 +16,4 @@ All configs generated with Vivado 2019.2 because of bugs preventing me from usin
 * 10_7g: 7 Gbps
 * 11_10g: 10 Gbps
 * 12_15g: 15 Gbps, 156.25 MHz refclk
+* 13_20g: 20 Gbps, 156.25 MHz refclk
