@@ -13,3 +13,5 @@ All configs generated with Vivado 2019.2 because of bugs preventing me from usin
 * 07_3g_93m75: 3 Gbps (93.75 MHz refclk): 23.475 MHz clk25
 * 08_3g_76m: 3 Gbps (76.433121 MHz refck): 19.108 MHz clk25
 * 09_5g: 5 Gbps
+* 10_7g: 7 Gbps
+* 11_10g: 10 Gbps
